@@ -25,7 +25,7 @@ SECRET_KEY = '_)bs%+3oi5mmoticj5d&e+2lb9!$*(@-6w-xe@q=n%qy+(1lu)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mycheftest.herokuapp.com']
 
 
 # Application definition
